@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+/*import React, { useState, useEffect } from 'react';
 import { View, Text, TouchableOpacity, FlatList, Alert, StyleSheet } from 'react-native';
 import { useSQLiteContext } from 'expo-sqlite';
 import { fetchAllTables, fetchActiveBillByTable, openTableBill, resetAllData } from '../db/database';
@@ -76,4 +76,4 @@ const styles = StyleSheet.create({
   statusText: { fontSize: 11, color: '#495057', textAlign: 'center', marginTop: 4 },
   resetBtn: { backgroundColor: '#fa5252', padding: 12, borderRadius: 6, marginTop: 10, alignItems: 'center' },
   resetBtnText: { color: '#fff', fontWeight: 'bold' }
-});
+});*/
